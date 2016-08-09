@@ -1,4 +1,4 @@
-# ESLinter support for any javascript ES5 projects
+# Linter support for any javascript ES5 projects
 
 [![npm version](https://badge.fury.io/js/eslint-modules-standard-deviation--es5.svg)](https://badge.fury.io/js/eslint-modules-standard-deviation--es5)
 
@@ -39,7 +39,8 @@ Add scripts to `package.json`
 ```
 
 ## Projects using `eslint-modules-standard-deviation--es5`
-
+* [karma-tap](https://github.com/bySabi/karma-tap)
+* [tap-lochnest](https://github.com/bySabi/tap-lochnest)
 
 ## Contributing
 
