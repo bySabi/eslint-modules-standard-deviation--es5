@@ -28,8 +28,9 @@ Add `extends` to project `.eslintrc`
     "space-before-function-paren": ["2", "always"]
   }
 }
+```
 
-Add scripts to `package.json`
+### Add scripts to `package.json`
 ```json
 "scripts": {
   "lint": "eslint . --ext .js",
@@ -40,6 +41,7 @@ Add scripts to `package.json`
 
 ## Projects using `eslint-modules-standard-deviation--es5`
 * [karma-tap](https://github.com/bySabi/karma-tap)
+* [karma-tap-pretty-reporter](https://github.com/bySabi/karma-tap-pretty-reporter)
 * [tap-lochnest](https://github.com/bySabi/tap-lochnest)
 
 ## Contributing
