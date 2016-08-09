@@ -1,4 +1,4 @@
-# Linter support for any javascript ES5 projects
+# eslint-modules-standard-deviation--es5
 
 [![npm version](https://badge.fury.io/js/eslint-modules-standard-deviation--es5.svg)](https://badge.fury.io/js/eslint-modules-standard-deviation--es5)
 
