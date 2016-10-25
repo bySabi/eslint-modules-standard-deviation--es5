@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/eslint-modules-standard-deviation--es5.svg)](https://badge.fury.io/js/eslint-modules-standard-deviation--es5)
 [![npm downloads](https://img.shields.io/npm/dm/eslint-modules-standard-deviation--es5.svg?style=flat-square)](https://www.npmjs.com/package/eslint-modules-standard-deviation--es5)
-[![Known Vulnerabilities](https://snyk.io/test/github/bysabi/eslint-modules-standard-deviation--es5/badge.svg)](https://snyk.io/test/github/bysabi/eslint-modules-standard-deviation--es5)
+[![bitHound Overall Score](https://www.bithound.io/github/bySabi/eslint-modules-standard-deviation--es5/badges/score.svg)](https://www.bithound.io/github/bySabi/eslint-modules-standard-deviation--es5)
 
 > Add linter settings easily to any javascript `ES5` project using shared eslint config, [eslint-config-standard-deviation--es5](https://github.com/bySabi/eslint-config-standard-deviation--es5), and [ESLint](http://eslint.org/)
 
